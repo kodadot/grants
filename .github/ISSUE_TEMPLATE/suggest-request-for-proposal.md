@@ -21,9 +21,9 @@ Deliverables
 ---
 Please list the deliverables of the project in as much detail as possible. Please also estimate the amount of work required and try to divide the project into meaningful milestones.
 
-Total Estimated Duration: Duration of the whole project
-Full-time equivalent (FTE): Amount of time (in days) required for a single person to complete this project ([see](https://en.wikipedia.org/wiki/Full-time_equivalent))
-Total Costs: Amount of Payment in USD for the whole project.
+- **Total Estimated Duration**: Duration of the whole project
+- **Full-time equivalent (FTE)**: Amount of time (in days) required for a single person to complete this project ([see](https://en.wikipedia.org/wiki/Full-time_equivalent))
+- **Total Costs**: Amount of Payment in USD for the whole project.
 
 Milestone 1
 ---
