@@ -2,9 +2,15 @@
 ![image](https://user-images.githubusercontent.com/5887929/216964045-a96d4015-daf2-47d7-a588-3874b923cb0f.png)
 
 We would like to incentivize to grow KodaDot ecosystem through various opportunities to new coming developers to our ecosystem. 
+Right now we are offering quick rewards through [our rewards in nft-gallery](https://github.com/kodadot/nft-gallery/blob/main/REWARDS.md) and bigger-slow rewards through our grants program.
 
 
+⚠️
+---
 Current all [request for hacks we would like to fund could be found in discussion](https://github.com/kodadot/grants/discussions/2), till we migrate to new structure.
+
+KodaDot Ecosystem you can leverage in your hacks
+--
 
 ## Main KodaDot engine
 - [nft-gallery](https://github.com/kodadot/nft-gallery)
@@ -50,7 +56,8 @@ Benefits: All of the above + VC introductions
 
 We love open-source
 ---
-If you love open source, please leave us a star ⭐️, to spread awareness about KodaDot ecosystem.
+If you love open source as we do, please leave us a star ⭐️ on our repositories. 
+Let's spread awareness about KodaDot ecosystem.
 
 
 More
