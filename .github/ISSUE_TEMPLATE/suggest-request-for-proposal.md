@@ -8,14 +8,16 @@ assignees: yangwao
 
 ---
 
-Projects you think this work could be useful for: 
-Teams/People that could deliver the RFP: <github_links>
+- **Proposer**: <github_handle>
+- **Your Projects**: [optional]: <links>
+- **Projects you think this work could be useful for**: 
+- **Teams/People that could deliver the RFP**: <github_links>
 
 Project Description 
 ---
 Please describe exactly why you are proposing this RFP. Make sure to point out why it’s potentially useful for your project or other projects in the ecosystem.
 
-Deliverales
+Deliverables
 ---
 Please list the deliverables of the project in as much detail as possible. Please also estimate the amount of work required and try to divide the project into meaningful milestones.
 
@@ -27,6 +29,6 @@ Milestone 1
 ---
 Please add additional milestones in the same way:
 
-Estimated Duration: Duration of milestone 1
-FTE: Amount of time (in days) required for a single person to complete this milestone
-Costs: Amount of Payment in USD for milestone 1
+- **Estimated Duration**: Duration of milestone 1
+- **FTE**: Amount of time (in days) required for a single person to complete this milestone
+- **Costs**: Amount of Payment in USD for milestone 1
