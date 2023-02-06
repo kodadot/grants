@@ -2,12 +2,17 @@
 ![image](https://user-images.githubusercontent.com/5887929/216964045-a96d4015-daf2-47d7-a588-3874b923cb0f.png)
 
 We would like to incentivize to grow KodaDot ecosystem through various opportunities to new coming developers to our ecosystem. 
-Right now we are offering quick rewards through [our rewards in nft-gallery](https://github.com/kodadot/nft-gallery/blob/main/REWARDS.md) and bigger-slow rewards through our grants program.
+We are offering quick rewards through [our bounties rewards in nft-gallery](https://github.com/kodadot/nft-gallery/blob/main/REWARDS.md) and bigger-slow rewards through our grants program.
 
 
 ⚠️
 ---
-Current all [request for hacks we would like to fund could be found in discussion](https://github.com/kodadot/grants/discussions/2), till we migrate to new structure.
+All [request for hacks we would like to fund can be found in discussion thread](https://github.com/kodadot/grants/discussions/2). We will be migrating to new structure. 🤞
+
+[Other Request for proposals could be found under $$$ labels in issues](https://github.com/kodadot/grants/issues)
+
+We warmly welcome to come up with your open suggestion. 
+You can proceed opening issue in this repository.
 
 KodaDot Ecosystem you can leverage in your hacks
 --
