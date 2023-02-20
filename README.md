@@ -58,6 +58,9 @@ Amount: Up to $30,000
 Requirements: 3 approvals
 Benefits: All of the above + VC introductions
 
+Have question?
+---
+Feel free to reach out [our grants channel at Telegram](https://t.me/kodadot_eco/6)
 
 We love open-source
 ---
