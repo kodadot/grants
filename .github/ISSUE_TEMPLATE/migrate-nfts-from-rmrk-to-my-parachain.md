@@ -1,7 +1,7 @@
 ---
 name: Migrate RMRK NFTs to parachain X
-about: We welcome your suggested hack and we can look if it's in our current scope of funding
-title: "[Suggestion] "
+about: We welcome your suggested hack, and we can look if it's in our current scope of funding
+title: "[Suggestion] Migrate RMRK NFTs to parachain "
 labels: suggested-hack
 assignees: yangwao
 
